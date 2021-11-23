@@ -14,7 +14,6 @@
 		 
 		 printf("addition : %d",ans);
 	 }
-	 
 	 return 0;
  }
  //atoi-->Ascii to Integer
