@@ -3,5 +3,3 @@
 
 // Function prototype
 int Divide(int,int);
-
-
