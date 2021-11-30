@@ -1,5 +1,5 @@
 // Header file inclusion
 #include <stdio.h>
 
-//Typedef and #define
+// Function prototype
 void Accept(int);
