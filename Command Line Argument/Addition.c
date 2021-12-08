@@ -17,7 +17,6 @@
 	 return 0;
  }
 
-
  //atoi-->Ascii to Integer
  //argc for arguments count
  
