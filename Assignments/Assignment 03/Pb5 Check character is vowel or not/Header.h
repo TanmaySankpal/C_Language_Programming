@@ -5,4 +5,5 @@ typedef int BOOL;
 #define TRUE 1
 #define FALSE 0
 
-BOOL ChkVowel(char); //Function Prototype
+ //Function Prototype 
+BOOL ChkVowel(char); 
