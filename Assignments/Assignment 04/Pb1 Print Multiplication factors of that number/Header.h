@@ -1,3 +1,4 @@
  //header file inclusion
 #include<stdio.h> 
-int MultFact(int); //Function Prototype
+//Function Prototype
+int MultFact(int); 
