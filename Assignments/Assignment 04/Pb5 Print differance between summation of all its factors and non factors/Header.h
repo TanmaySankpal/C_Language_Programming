@@ -1,3 +1,4 @@
 //header file inclusion
-#include<stdio.h> 
-int FactDiff(int); //Function Prototype
+#include<stdio.h>
+//Function Prototype
+int FactDiff(int); 
