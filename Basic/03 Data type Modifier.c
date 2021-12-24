@@ -2,7 +2,7 @@
  
  int main()
  {
-	 
+	
 	int i=11;		//4 Byte
 	short int j=11; //2 Byte
 	long int k=11;	//8 Byte
