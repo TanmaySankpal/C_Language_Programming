@@ -19,6 +19,7 @@
 	 
 	 return 0;
  }
+
  /*	By using data type modifier we can modify the size of that data type or we can modify the range
 	
 	By using short and long data type modifier we can modify the size
