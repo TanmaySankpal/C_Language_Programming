@@ -2,7 +2,6 @@
  
  int main()
  {
-	
 	int i=11;		//4 Byte
 	short int j=11; //2 Byte
 	long int k=11;	//8 Byte
@@ -19,7 +18,6 @@
 	 
 	 return 0;
  }
-
 
  /*	By using data type modifier we can modify the size of that data type or we can modify the range
 	
