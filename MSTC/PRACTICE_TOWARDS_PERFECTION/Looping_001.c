@@ -23,6 +23,7 @@ int main(void)
     printf("Enter n:"); 
     scanf("%d", &n); 
     printf("Enter k:"); 
+    
     for(i = 0; i < n; i += k)
         printf("i = %d\n", i); 
 
