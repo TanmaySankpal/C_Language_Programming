@@ -12,6 +12,7 @@
 	 return 0;
  }
  
+
  //argc for arguments count
  //argv for name of array (array of character Pointr)  
  
